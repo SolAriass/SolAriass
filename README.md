@@ -1,6 +1,7 @@
 <h1 align="center">¡Hola! 👋</h1>
 
-![Banner GITHUB](https://github.com/user-attachments/assets/a69abbb8-f137-460c-bc72-fd261cc74fc5)
+![Banner GITHUB](https://github.com/user-attachments/assets/62c8a431-d764-4240-813a-aa5cfe51179b)
+
 
 <p align="left">Mi nombre es Sol Arias y Soy estudiante de la <b>Tecnicatura Universitaria en Desarrollo Web</b> en la UNLaM y amante del mundo de la programación, para ser más especifica en el mundo del FronEnd. Actualmente, me encuentro en un aprendizaje y crecimiento en el campo del desarrollo web. Me gusta colaborar en proyectos grupales, donde he tenido la oportunidad de aprender y compartir conocimientos con otros de mis compañeros de la tecnicatura.</p>
 
