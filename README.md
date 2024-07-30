@@ -12,7 +12,7 @@
 
 ###
 
-<p>Soy una persona con mucho interés en aprender siempre algo nuevo, tuve la oportunidad de participar en dos proyectos. Un Zoológico realizado con java el cuál testea métodos que simulan las acciones del mismo, y otro con html, css y Javascript que es una imitación a una página de streaming llamada "Monkey Stream". Actualmente me encuentro realizando proyectos personales los cuales voy a ir subiendo.
+<p>Soy una persona con mucho interés en aprender siempre algo nuevo, tuve la oportunidad de participar en dos proyectos. Un Zoológico realizado con java el cuál testea métodos que simulan las acciones del mismo, y otro con HTML, CSS y JavaScript que es una imitación a una página de streaming llamada "Monkey Stream". Actualmente me encuentro realizando proyectos personales los cuales voy a ir subiendo.
 También planeo a futuro tener conocimientos a fondo sobre Diseño gráfico, ya que es un mundo el cuál me gustaría conocer más a fondo.</p>
 
 ###
