@@ -52,6 +52,7 @@ También planeo a futuro tener conocimientos a fondo sobre Diseño gráfico, ya 
 <h2 aling="left">Podes contactarme en... </h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="18" alt="Correo Electrónico" /> [Correo Electrónico](mailto:ssolariaas@gmail.com)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/sol-macarena-arias-210a04267/)
 
 <p align="center"> ¡Muchas gracias por visitar mi página! 🌟</p>
