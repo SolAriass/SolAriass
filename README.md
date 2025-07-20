@@ -13,15 +13,22 @@
 ###
 
 <p>
-Soy una persona con mucho interés en aprender siempre algo nuevo, tuve la oportunidad de participar en varios proyectos los cuales se encuentran en esta misma plataforma. 
-  <br>
-  Un Zoológico realizado con java. <br> 
-  Una página de Streaming estilo 'Netflix' con HTML, CSS y JavaScript. <br> 
-  Un preguntados realizado con php aplicando la arquitectura MVC. <br>
-  Una plataforma de venta de entradas para eventos realizado con Spring y Java. <br> 
-  Para final, mi último proyecto fue realizado con Angular y Node.js, creando una página que simulaba la compra de productos de belleza (perfumes y cosméticos). <br>
-Planeo a futuro ampliar mis conocimientos sobre el mundo de Diseño gráfico, ya que es uno de mis objetivos a cumplir.
+Soy una persona con mucho interés en aprender siempre algo nuevo, tuve la oportunidad de participar en varios proyectos los cuales se encuentran en esta misma plataforma. Planeo a futuro ampliar mis conocimientos sobre el mundo de Diseño gráfico, ya que es uno de mis objetivos a cumplir.
 </p>
+
+###
+
+<h2 align="left">Proyectos:</h2>
+
+###
+
+<ul>
+  <li>Un Zoológico realizado con java.</li>
+  <li>Una página de Streaming estilo 'Netflix' con HTML, CSS y JavaScript.</li>
+  <li>Un preguntados realizado con php aplicando la arquitectura MVC.</li>
+  <li>Una plataforma de venta de entradas para eventos realizado con Spring y Java.</li> 
+  <li>Mi último proyecto fue realizado con Angular y Node.js, creando una página que simulaba la compra de productos de belleza (perfumes y cosméticos).</li>
+</ul>
 
 ###
 
