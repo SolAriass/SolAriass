@@ -4,7 +4,7 @@
 
 
 
-<p align="left">Mi nombre es Sol Arias, Soy estudiante de la <b>Tecnicatura Universitaria en Desarrollo Web</b> en la UNLaM y amante del mundo de la programación, para ser más especifica en el mundo del FrontEnd. Actualmente, me encuentro en un aprendizaje y crecimiento en el campo del desarrollo web. Me gusta colaborar en proyectos grupales, donde he tenido la oportunidad de aprender y compartir conocimientos con otros de mis compañeros de la tecnicatura.</p>
+<p align="left">Mi nombre es Sol Arias, Soy estudiante de la <b>Tecnicatura Universitaria en Desarrollo Web</b> en la UNLaM y una apasionada de la programación, especialmente del mundo del FrontEnd. Actualmente, me encuentro en un aprendizaje y crecimiento en el campo del desarrollo web. Me gusta colaborar en proyectos grupales, donde he tenido la oportunidad de aprender y compartir conocimientos con otros de mis compañeros de la tecnicatura.</p>
 
 ###
 
@@ -12,8 +12,16 @@
 
 ###
 
-<p>Soy una persona con mucho interés en aprender siempre algo nuevo, tuve la oportunidad de participar en dos proyectos. Un Zoológico realizado con java el cuál testea métodos que simulan las acciones del mismo, y otro con HTML, CSS y JavaScript que es una imitación a una página de streaming llamada "Monkey Stream". Actualmente me encuentro realizando proyectos personales los cuales voy a ir subiendo.
-Planeo a futuro ampliar mis conocimientos sobre el mundo de Diseño gráfico, ya que es uno de mis objetivos a cumplir</p>
+<p>
+Soy una persona con mucho interés en aprender siempre algo nuevo, tuve la oportunidad de participar en varios proyectos los cuales se encuentran en esta misma plataforma. 
+  <br>
+  Un Zoológico realizado con java. <br> 
+  Una página de Streaming estilo 'Netflix' con HTML, CSS y JavaScript. <br> 
+  Un preguntados realizado con php aplicando la arquitectura MVC. <br>
+  Una plataforma de venta de entradas para eventos realizado con Spring y Java. <br> 
+  Para final, mi último proyecto fue realizado con Angular y Node.js, creando una página que simulaba la compra de productos de belleza (perfumes y cosméticos). <br>
+Planeo a futuro ampliar mis conocimientos sobre el mundo de Diseño gráfico, ya que es uno de mis objetivos a cumplir.
+</p>
 
 ###
 
@@ -34,19 +42,57 @@ Planeo a futuro ampliar mis conocimientos sobre el mundo de Diseño gráfico, ya
 
 ###
 
-<h2 align="left">Tuve la oportunidad de aprender los siguientes lenguajes</h2>
+<h2 align="left">Conocimientos actuales:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <!-- Estilos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo"  />
+  <!-- Frameworks JS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+
+  <!-- Java & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
+
+
+  <!-- Bases de datos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo" />
+  <img width="12" />
+
+
 </div>
+
+<br>
+
+<div>
+
+🧩 Thymeleaf · 🧾 Mustache · 🐘 Hibernate · ⚙️ Prisma + Express · 🧪 JUnit · 🔍 Mockito · 🔬 Hamcrest · 🧱 Jetty · ☕ Maven · 🌐 Apache · 🎭 Playwright
+  
+</div>
+
+<br>
 
 <p align="center"> ¡Muchas gracias por visitar mi página! 🌟</p>
