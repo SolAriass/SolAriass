@@ -18,7 +18,7 @@ Soy una persona con mucho interés en aprender siempre algo nuevo, tuve la oport
 
 ###
 
-<h2 align="left">Proyectos:</h2>
+<h2 align="left">Proyectos</h2>
 
 ###
 
