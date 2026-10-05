@@ -4,7 +4,7 @@
 
 
 
-<p align="left">Mi nombre es Sol Arias, Soy estudiante de la <b>Tecnicatura Universitaria en Desarrollo Web</b> en la UNLaM y una apasionada de la programación, especialmente del mundo del FrontEnd. Actualmente, me encuentro en un aprendizaje y crecimiento en el campo del desarrollo web. Me gusta colaborar en proyectos grupales, donde he tenido la oportunidad de aprender y compartir conocimientos con otros de mis compañeros de la tecnicatura.</p>
+<p align="left">Mi nombre es Sol Arias, Soy Recibida en la <b>Tecnicatura Universitaria en Desarrollo Web</b> en la UNLaM y una apasionada de la programación, especialmente del mundo del FrontEnd. Actualmente, me encuentro en un aprendizaje y crecimiento en el campo del desarrollo web. Me gusta colaborar en proyectos grupales, donde he tenido la oportunidad de aprender y compartir conocimientos con otros de mis compañeros de la tecnicatura.</p>
 
 ###
 
