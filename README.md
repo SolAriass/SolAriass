@@ -23,11 +23,12 @@ Soy una persona con mucho interés en aprender siempre algo nuevo, tuve la oport
 ###
 
 <ul>
+  <li>Nido, una plataforma para organización del hogar</li> 
   <li>Un Zoológico realizado con java.</li>
   <li>Una página de Streaming estilo 'Netflix' con HTML, CSS y JavaScript.</li>
   <li>Un preguntados realizado con php aplicando la arquitectura MVC.</li>
   <li>Una plataforma de venta de entradas para eventos realizado con Spring y Java.</li> 
-  <li>Mi último proyecto fue realizado con Angular y Node.js, creando una página que simulaba la compra de productos de belleza (perfumes y cosméticos).</li>
+  <li>Página de venta sobre productos de belleza (perfumes y cosméticos). fue realizado con Angular y Node.js<li>
 </ul>
 
 ###
