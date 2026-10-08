@@ -28,7 +28,8 @@ Soy una persona con mucho interés en aprender siempre algo nuevo, tuve la oport
   <li>Una página de Streaming estilo 'Netflix' con HTML, CSS y JavaScript.</li>
   <li>Un preguntados realizado con php aplicando la arquitectura MVC.</li>
   <li>Una plataforma de venta de entradas para eventos realizado con Spring y Java.</li> 
-  <li>Página de venta sobre productos de belleza (perfumes y cosméticos). fue realizado con Angular y Node.js<li>
+  <li>Página de venta sobre productos de belleza (perfumes y cosméticos). fue realizado con Angular y Node.js</li>
+  <li>Con Unity realizamos un juego sobre Rick y Morty, modo aventura</li>
 </ul>
 
 ###
